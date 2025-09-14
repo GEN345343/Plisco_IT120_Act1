@@ -153,8 +153,24 @@ $ git add Readme.txt
 admin@gen MINGW64 ~/Plisco_IT120_Act1 (Plisco_B1)
 $ git commit -m "Readme.txt"
 
-$ git push -u origin Plisco_B1
-GI
+admin@gen MINGW64 ~/Plisco_IT120_Act1 (Plisco_B1)
+$ git commit -m "Readme.txt"
+[Plisco_B1 517f138] Readme.txt
+ 1 file changed, 160 insertions(+)
+
+admin@gen MINGW64 ~/Plisco_IT120_Act1 (Plisco_B1)
+$ git push origin Plisco_B1
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.70 KiB | 1.70 MiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/GEN345343/Plisco_IT120_Act1.git
+   2078e67..517f138  Plisco_B1 -> Plisco_B1
+
+
 
 
 
