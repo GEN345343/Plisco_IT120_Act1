@@ -1,0 +1,14 @@
+First Name: Elgen
+Middle Name: B.
+Last Name: Plisco
+Gender: Female
+Age: 20
+Birthday: April 3, 2005
+Contacts: 09501287562
+
+Birth of Place : P2-A Sto. Nino Butuan City
+Religion : Roman Catholic
+Father's Name : Edmundo O. Plisco
+Occupation : Farmer
+Mother's Name : Editha B. Plisco
+Occupation : Housewife
